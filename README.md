@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/ravenarchive/.github/refs/main/profile/banner.png)
+![banner.png](https://raw.githubusercontent.com/ravenarchive/.github/refs/heads/main/profile/banner.png)
 
 # Privacy and security should be on by default.
 
