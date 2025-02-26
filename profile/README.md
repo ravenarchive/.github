@@ -12,6 +12,6 @@ Raven believes that open source is for everybody. That is why we are working har
 - [Contact us](https://ravendevteam.org/contact/)
 - [Terms of service](https://ravendevteam.org/terms/)
 
-<br style="backgrund: gray;">
+----
 
 All open source projects by the Raven Development Team adopt the [BSD-3-Clause License](https://ravendevteam.org/files/BSD-3-Clause.txt). By using our software, you acknowledge and agree to the terms of the license.
